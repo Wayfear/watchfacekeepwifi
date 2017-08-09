@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/home/kanxuan/Desktop/WatchFace/Application/build/intermediates/res/merged/debug/layout-v21/dismiss_overlay.xml",
+        "source": "/home/kanxuan/.android/build-cache/91ca553e796d09405d8fe7f8ecdeeb4a7f2e182f/output/res/layout-v21/dismiss_overlay.xml"
+    },
+    {
+        "merged": "/home/kanxuan/Desktop/WatchFace/Application/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/kanxuan/.android/build-cache/e938125223647d18e3c0dcacd60387a50745f60f/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/kanxuan/Desktop/WatchFace/Application/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/kanxuan/.android/build-cache/e938125223647d18e3c0dcacd60387a50745f60f/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/kanxuan/Desktop/WatchFace/Application/build/intermediates/res/merged/debug/layout-v21/overlay_confirmation.xml",
+        "source": "/home/kanxuan/.android/build-cache/91ca553e796d09405d8fe7f8ecdeeb4a7f2e182f/output/res/layout-v21/overlay_confirmation.xml"
+    },
+    {
+        "merged": "/home/kanxuan/Desktop/WatchFace/Application/build/intermediates/res/merged/debug/layout-v21/accept_deny_dialog.xml",
+        "source": "/home/kanxuan/.android/build-cache/91ca553e796d09405d8fe7f8ecdeeb4a7f2e182f/output/res/layout-v21/accept_deny_dialog.xml"
+    },
+    {
+        "merged": "/home/kanxuan/Desktop/WatchFace/Application/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/kanxuan/.android/build-cache/e938125223647d18e3c0dcacd60387a50745f60f/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/kanxuan/Desktop/WatchFace/Application/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/kanxuan/.android/build-cache/e938125223647d18e3c0dcacd60387a50745f60f/output/res/layout-v21/notification_action.xml"
+    }
+]

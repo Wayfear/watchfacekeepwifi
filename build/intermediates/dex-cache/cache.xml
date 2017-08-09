@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/kanxuan/.android/build-cache/84d3cb8812a7a055c5887232c2038c5d7d70936c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="/home/kanxuan/Desktop/WatchFace/Wearable/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5e438d1ab3911710be4c4c43640d7d37d7f8a812/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kanxuan/.android/build-cache/6d5075128e2c32e64d9ddd73a91e7a220277e411/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/home/kanxuan/Desktop/WatchFace/Wearable/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d6285a3713187abe42d1759ddcb5ac558c7d2786/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kanxuan/.android/build-cache/cb52c2e2ba7cf789bcddae44999767f393782f4e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/kanxuan/Desktop/WatchFace/Wearable/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6f67dd97451b78355fcbc2159f07d62adad4eed1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kanxuan/.android/build-cache/d6ed240f7019a5858cea05d2de7b1c731b537882/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44a694d4095be84c2888764b1f7256b385c030ad">
+        <dex dex="/home/kanxuan/Desktop/WatchFace/Wearable/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b62313aebef630192d07451a508233ef4a4b133b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kanxuan/Desktop/WatchFace/Wearable/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3d9883b74de0e687895d4f2f9694bc257b9ab4c4">
+        <dex dex="/home/kanxuan/Desktop/WatchFace/Wearable/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_40544e276d11e555b97a66448c722f751e5858c6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kanxuan/.android/build-cache/4509bd27e5cc335f81ab23d523f030ab005f67e9/output/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cfb91ea7c6890336890ccb42767041af6b863e32">
+        <dex dex="/home/kanxuan/Desktop/WatchFace/Wearable/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_69721d96d5253380460e7d5353975f0efc7c9bec/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kanxuan/.android/build-cache/027d9c72639f40fa43fedbb5408cd0cfaf47b73a/output/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/home/kanxuan/Desktop/WatchFace/Wearable/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_ecf2ea764ee5cee783f6fbf23d6e0542128857b0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kanxuan/.android/build-cache/daa2cbad89a296d4a3caebccdd9085692d3f9bb9/output/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/home/kanxuan/Desktop/WatchFace/Wearable/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_fbd2134ec8da6f8cda9074c20924a7349d379552/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kanxuan/Desktop/WatchFace/Wearable/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/kanxuan/Desktop/WatchFace/Wearable/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_0360a5d686ee69a9f46295335326196325fae935/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kanxuan/.android/build-cache/027d9c72639f40fa43fedbb5408cd0cfaf47b73a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/home/kanxuan/Desktop/WatchFace/Wearable/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1c7d2cc887952b9192149e7c2c50acc8e44634bf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kanxuan/.android/build-cache/1eb4333cc71218cbc547761f0fb009f8ec1899cd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/home/kanxuan/Desktop/WatchFace/Wearable/build/intermediates/transforms/dex/debug/folders/1000/10/classes_548df81f9788a874d1f286f0f487ad667f603bde/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kanxuan/.android/build-cache/f22cc2bc0f5798347f7af08a579d555d1f6e4f0e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="408a599ac77cd17fe8e8919326bec617b3d005bd">
+        <dex dex="/home/kanxuan/Desktop/WatchFace/Wearable/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b9203566d7f866dc783dd1a55ee32142657bf2f6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kanxuan/.android/build-cache/4509bd27e5cc335f81ab23d523f030ab005f67e9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9abf11d546d9e0ee82da86df608ced7a961b76ac">
+        <dex dex="/home/kanxuan/Desktop/WatchFace/Wearable/build/intermediates/transforms/dex/debug/folders/1000/10/classes_207dce625b81e1a8850a903e0e8d0cc15b97286f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kanxuan/.android/build-cache/d0448a8af4c21e207b806c0372efb3bf720e03e0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/home/kanxuan/Desktop/WatchFace/Wearable/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3a5fe26305f42152e895ae287f2b166b2687f438/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kanxuan/.android/build-cache/fc80482d0af13eb62688a7292c35fa74701c6f18/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7a64bf6dc775198eed9db9468a133adf7dfe6562">
+        <dex dex="/home/kanxuan/Desktop/WatchFace/Wearable/build/intermediates/transforms/dex/debug/folders/1000/10/classes_07e29320c2d169b843a703e699c5e8468a46dea0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kanxuan/.android/build-cache/1eb4333cc71218cbc547761f0fb009f8ec1899cd/output/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/home/kanxuan/Desktop/WatchFace/Wearable/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_b3cfbdf418da0bb4519b3e3ab2f4645896f73b25/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kanxuan/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/home/kanxuan/Desktop/WatchFace/Wearable/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.0_0ce2060ed3c1a4accd20048bdad1b56b709f0b8f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kanxuan/.android/build-cache/47209e9612288e5073429c0ade435e93e6285f94/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/home/kanxuan/Desktop/WatchFace/Wearable/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7cc7cb0926cca4d46a37f0dde701100876a86e90/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kanxuan/.android/build-cache/bb562dd1d5bdfd10e4ba15bf56884ff21b4a47f8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="/home/kanxuan/Desktop/WatchFace/Wearable/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ba32208e42a465828546c17a4310f40a0dcdb8b2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kanxuan/.android/build-cache/10cba97f45da9f6af4f81663d94d3ca34abfadf7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cddfbb68753c7b1222ffb7af97bfd9ecf413aba7">
+        <dex dex="/home/kanxuan/Desktop/WatchFace/Wearable/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fa0c784eec84478a1e6726ee192c21492f9978ac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kanxuan/.android/build-cache/daa2cbad89a296d4a3caebccdd9085692d3f9bb9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/home/kanxuan/Desktop/WatchFace/Wearable/build/intermediates/transforms/dex/debug/folders/1000/10/classes_367ea06f38d3bc790375d2414a983030609664c5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kanxuan/.android/build-cache/0e8c18269901df8a2674b307413ba8cf4e9f06b8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6f68018b5ddc2493f5e5cecc5601c05d0539281a">
+        <dex dex="/home/kanxuan/Desktop/WatchFace/Wearable/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e1d52da8cdbae0fd1c0cb9761014094408acb28e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kanxuan/.android/build-cache/21cb460e3cfffc5aa98efd22e6ccbd0147cd8bbc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="/home/kanxuan/Desktop/WatchFace/Wearable/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a1ece0829a09faa4f8ff12a06e6df62bdd593f23/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kanxuan/.android/build-cache/91ca553e796d09405d8fe7f8ecdeeb4a7f2e182f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4d699dd197929286d19b015f4c142b8360f2137">
+        <dex dex="/home/kanxuan/Desktop/WatchFace/Wearable/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c008df791491f86e5aac5ba2f432adef869b2392/classes.dex" />
+    </item>
+
+</items>

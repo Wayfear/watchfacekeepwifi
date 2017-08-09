@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "/home/kanxuan/Desktop/WatchFace/Wearable/build/intermediates/res/merged/debug/layout/activity_complication_simple_list_item.xml",
+        "source": "/home/kanxuan/Desktop/WatchFace/Wearable/src/main/res/layout/activity_complication_simple_list_item.xml"
+    },
+    {
+        "merged": "/home/kanxuan/Desktop/WatchFace/Wearable/build/intermediates/res/merged/debug/layout/single_page_nav_drawer_7_item.xml",
+        "source": "/home/kanxuan/.android/build-cache/91ca553e796d09405d8fe7f8ecdeeb4a7f2e182f/output/res/layout/single_page_nav_drawer_7_item.xml"
+    },
+    {
+        "merged": "/home/kanxuan/Desktop/WatchFace/Wearable/build/intermediates/res/merged/debug/layout/navigation_drawer_item_view.xml",
+        "source": "/home/kanxuan/.android/build-cache/91ca553e796d09405d8fe7f8ecdeeb4a7f2e182f/output/res/layout/navigation_drawer_item_view.xml"
+    },
+    {
+        "merged": "/home/kanxuan/Desktop/WatchFace/Wearable/build/intermediates/res/merged/debug/layout/activity_complication_simple_config.xml",
+        "source": "/home/kanxuan/Desktop/WatchFace/Wearable/src/main/res/layout/activity_complication_simple_config.xml"
+    },
+    {
+        "merged": "/home/kanxuan/Desktop/WatchFace/Wearable/build/intermediates/res/merged/debug/layout/single_page_nav_drawer_5_item.xml",
+        "source": "/home/kanxuan/.android/build-cache/91ca553e796d09405d8fe7f8ecdeeb4a7f2e182f/output/res/layout/single_page_nav_drawer_5_item.xml"
+    },
+    {
+        "merged": "/home/kanxuan/Desktop/WatchFace/Wearable/build/intermediates/res/merged/debug/layout/single_page_nav_drawer_4_item.xml",
+        "source": "/home/kanxuan/.android/build-cache/91ca553e796d09405d8fe7f8ecdeeb4a7f2e182f/output/res/layout/single_page_nav_drawer_4_item.xml"
+    },
+    {
+        "merged": "/home/kanxuan/Desktop/WatchFace/Wearable/build/intermediates/res/merged/debug/layout/navigation_drawer_view.xml",
+        "source": "/home/kanxuan/.android/build-cache/91ca553e796d09405d8fe7f8ecdeeb4a7f2e182f/output/res/layout/navigation_drawer_view.xml"
+    },
+    {
+        "merged": "/home/kanxuan/Desktop/WatchFace/Wearable/build/intermediates/res/merged/debug/layout/single_page_nav_drawer_3_item.xml",
+        "source": "/home/kanxuan/.android/build-cache/91ca553e796d09405d8fe7f8ecdeeb4a7f2e182f/output/res/layout/single_page_nav_drawer_3_item.xml"
+    },
+    {
+        "merged": "/home/kanxuan/Desktop/WatchFace/Wearable/build/intermediates/res/merged/debug/layout/activity_digital_config.xml",
+        "source": "/home/kanxuan/Desktop/WatchFace/Wearable/src/main/res/layout/activity_digital_config.xml"
+    },
+    {
+        "merged": "/home/kanxuan/Desktop/WatchFace/Wearable/build/intermediates/res/merged/debug/layout/single_page_nav_drawer_2_item.xml",
+        "source": "/home/kanxuan/.android/build-cache/91ca553e796d09405d8fe7f8ecdeeb4a7f2e182f/output/res/layout/single_page_nav_drawer_2_item.xml"
+    },
+    {
+        "merged": "/home/kanxuan/Desktop/WatchFace/Wearable/build/intermediates/res/merged/debug/layout/color_picker_item.xml",
+        "source": "/home/kanxuan/Desktop/WatchFace/Wearable/src/main/res/layout/color_picker_item.xml"
+    },
+    {
+        "merged": "/home/kanxuan/Desktop/WatchFace/Wearable/build/intermediates/res/merged/debug/layout/alert_dialog_wearable.xml",
+        "source": "/home/kanxuan/.android/build-cache/91ca553e796d09405d8fe7f8ecdeeb4a7f2e182f/output/res/layout/alert_dialog_wearable.xml"
+    },
+    {
+        "merged": "/home/kanxuan/Desktop/WatchFace/Wearable/build/intermediates/res/merged/debug/layout/single_page_nav_drawer_6_item.xml",
+        "source": "/home/kanxuan/.android/build-cache/91ca553e796d09405d8fe7f8ecdeeb4a7f2e182f/output/res/layout/single_page_nav_drawer_6_item.xml"
+    },
+    {
+        "merged": "/home/kanxuan/Desktop/WatchFace/Wearable/build/intermediates/res/merged/debug/layout/single_page_nav_drawer_peek_view.xml",
+        "source": "/home/kanxuan/.android/build-cache/91ca553e796d09405d8fe7f8ecdeeb4a7f2e182f/output/res/layout/single_page_nav_drawer_peek_view.xml"
+    },
+    {
+        "merged": "/home/kanxuan/Desktop/WatchFace/Wearable/build/intermediates/res/merged/debug/layout/single_page_nav_drawer_1_item.xml",
+        "source": "/home/kanxuan/.android/build-cache/91ca553e796d09405d8fe7f8ecdeeb4a7f2e182f/output/res/layout/single_page_nav_drawer_1_item.xml"
+    },
+    {
+        "merged": "/home/kanxuan/Desktop/WatchFace/Wearable/build/intermediates/res/merged/debug/layout/activity_calendar_watch_face_permission.xml",
+        "source": "/home/kanxuan/Desktop/WatchFace/Wearable/src/main/res/layout/activity_calendar_watch_face_permission.xml"
+    }
+]

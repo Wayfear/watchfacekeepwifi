@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "/home/kanxuan/Desktop/WatchFace/Wearable/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_icon_dark_disabled.9.png",
+        "source": "/home/kanxuan/.android/build-cache/84d3cb8812a7a055c5887232c2038c5d7d70936c/output/res/drawable-mdpi-v4/common_google_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "/home/kanxuan/Desktop/WatchFace/Wearable/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_text_dark_normal.9.png",
+        "source": "/home/kanxuan/.android/build-cache/84d3cb8812a7a055c5887232c2038c5d7d70936c/output/res/drawable-mdpi-v4/common_google_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "/home/kanxuan/Desktop/WatchFace/Wearable/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_text_light_normal.9.png",
+        "source": "/home/kanxuan/.android/build-cache/84d3cb8812a7a055c5887232c2038c5d7d70936c/output/res/drawable-mdpi-v4/common_google_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "/home/kanxuan/Desktop/WatchFace/Wearable/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_text_dark_pressed.9.png",
+        "source": "/home/kanxuan/.android/build-cache/84d3cb8812a7a055c5887232c2038c5d7d70936c/output/res/drawable-mdpi-v4/common_google_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "/home/kanxuan/Desktop/WatchFace/Wearable/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_full_sad.png",
+        "source": "/home/kanxuan/.android/build-cache/91ca553e796d09405d8fe7f8ecdeeb4a7f2e182f/output/res/drawable-mdpi-v4/ic_full_sad.png"
+    },
+    {
+        "merged": "/home/kanxuan/Desktop/WatchFace/Wearable/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_icon_dark_pressed.9.png",
+        "source": "/home/kanxuan/.android/build-cache/84d3cb8812a7a055c5887232c2038c5d7d70936c/output/res/drawable-mdpi-v4/common_google_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "/home/kanxuan/Desktop/WatchFace/Wearable/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_icon_light_pressed.9.png",
+        "source": "/home/kanxuan/.android/build-cache/84d3cb8812a7a055c5887232c2038c5d7d70936c/output/res/drawable-mdpi-v4/common_google_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "/home/kanxuan/Desktop/WatchFace/Wearable/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_icon_dark_normal.9.png",
+        "source": "/home/kanxuan/.android/build-cache/84d3cb8812a7a055c5887232c2038c5d7d70936c/output/res/drawable-mdpi-v4/common_google_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "/home/kanxuan/Desktop/WatchFace/Wearable/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_full_cancel.png",
+        "source": "/home/kanxuan/.android/build-cache/91ca553e796d09405d8fe7f8ecdeeb4a7f2e182f/output/res/drawable-mdpi-v4/ic_full_cancel.png"
+    },
+    {
+        "merged": "/home/kanxuan/Desktop/WatchFace/Wearable/build/intermediates/res/merged/debug/drawable-mdpi-v4/card_frame.9.png",
+        "source": "/home/kanxuan/.android/build-cache/91ca553e796d09405d8fe7f8ecdeeb4a7f2e182f/output/res/drawable-mdpi-v4/card_frame.9.png"
+    },
+    {
+        "merged": "/home/kanxuan/Desktop/WatchFace/Wearable/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_icon_light_normal.9.png",
+        "source": "/home/kanxuan/.android/build-cache/84d3cb8812a7a055c5887232c2038c5d7d70936c/output/res/drawable-mdpi-v4/common_google_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "/home/kanxuan/Desktop/WatchFace/Wearable/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_text_dark_disabled.9.png",
+        "source": "/home/kanxuan/.android/build-cache/84d3cb8812a7a055c5887232c2038c5d7d70936c/output/res/drawable-mdpi-v4/common_google_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "/home/kanxuan/Desktop/WatchFace/Wearable/build/intermediates/res/merged/debug/drawable-mdpi-v4/card_frame_pressed.9.png",
+        "source": "/home/kanxuan/.android/build-cache/91ca553e796d09405d8fe7f8ecdeeb4a7f2e182f/output/res/drawable-mdpi-v4/card_frame_pressed.9.png"
+    },
+    {
+        "merged": "/home/kanxuan/Desktop/WatchFace/Wearable/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_text_light_pressed.9.png",
+        "source": "/home/kanxuan/.android/build-cache/84d3cb8812a7a055c5887232c2038c5d7d70936c/output/res/drawable-mdpi-v4/common_google_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "/home/kanxuan/Desktop/WatchFace/Wearable/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_text_light_disabled.9.png",
+        "source": "/home/kanxuan/.android/build-cache/84d3cb8812a7a055c5887232c2038c5d7d70936c/output/res/drawable-mdpi-v4/common_google_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "/home/kanxuan/Desktop/WatchFace/Wearable/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_icon_light_disabled.9.png",
+        "source": "/home/kanxuan/.android/build-cache/84d3cb8812a7a055c5887232c2038c5d7d70936c/output/res/drawable-mdpi-v4/common_google_signin_btn_icon_light_disabled.9.png"
+    }
+]

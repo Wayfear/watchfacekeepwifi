@@ -1,0 +1,7 @@
+#Fri Aug 04 14:53:24 BST 2017
+base.0=/home/kanxuan/Desktop/WatchFace/Wearable/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_40544e276d11e555b97a66448c722f751e5858c6
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/kanxuan/Desktop/WatchFace/Wearable/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_0360a5d686ee69a9f46295335326196325fae935/classes.dex
+base.1=/home/kanxuan/Desktop/WatchFace/Wearable/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_0360a5d686ee69a9f46295335326196325fae935
+file.0=/home/kanxuan/Desktop/WatchFace/Wearable/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_40544e276d11e555b97a66448c722f751e5858c6/classes.dex

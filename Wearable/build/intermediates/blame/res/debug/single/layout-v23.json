@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/kanxuan/Desktop/WatchFace/Wearable/build/intermediates/res/merged/debug/layout-v23/action_drawer_peek_view.xml",
+        "source": "/home/kanxuan/.android/build-cache/91ca553e796d09405d8fe7f8ecdeeb4a7f2e182f/output/res/layout-v23/action_drawer_peek_view.xml"
+    },
+    {
+        "merged": "/home/kanxuan/Desktop/WatchFace/Wearable/build/intermediates/res/merged/debug/layout-v23/action_drawer_item_view.xml",
+        "source": "/home/kanxuan/.android/build-cache/91ca553e796d09405d8fe7f8ecdeeb4a7f2e182f/output/res/layout-v23/action_drawer_item_view.xml"
+    },
+    {
+        "merged": "/home/kanxuan/Desktop/WatchFace/Wearable/build/intermediates/res/merged/debug/layout-v23/wearable_drawer_view.xml",
+        "source": "/home/kanxuan/.android/build-cache/91ca553e796d09405d8fe7f8ecdeeb4a7f2e182f/output/res/layout-v23/wearable_drawer_view.xml"
+    }
+]

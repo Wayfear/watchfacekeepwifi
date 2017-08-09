@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/kanxuan/Desktop/WatchFace/Wearable/build/intermediates/res/merged/debug/color/circular_button.xml",
+        "source": "/home/kanxuan/.android/build-cache/91ca553e796d09405d8fe7f8ecdeeb4a7f2e182f/output/res/color/circular_button.xml"
+    },
+    {
+        "merged": "/home/kanxuan/Desktop/WatchFace/Wearable/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_light.xml",
+        "source": "/home/kanxuan/.android/build-cache/84d3cb8812a7a055c5887232c2038c5d7d70936c/output/res/color/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/home/kanxuan/Desktop/WatchFace/Wearable/build/intermediates/res/merged/debug/color/card_grey_text_color.xml",
+        "source": "/home/kanxuan/.android/build-cache/91ca553e796d09405d8fe7f8ecdeeb4a7f2e182f/output/res/color/card_grey_text_color.xml"
+    },
+    {
+        "merged": "/home/kanxuan/Desktop/WatchFace/Wearable/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_dark.xml",
+        "source": "/home/kanxuan/.android/build-cache/84d3cb8812a7a055c5887232c2038c5d7d70936c/output/res/color/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/home/kanxuan/Desktop/WatchFace/Wearable/build/intermediates/res/merged/debug/color/card_text_color.xml",
+        "source": "/home/kanxuan/.android/build-cache/91ca553e796d09405d8fe7f8ecdeeb4a7f2e182f/output/res/color/card_text_color.xml"
+    }
+]

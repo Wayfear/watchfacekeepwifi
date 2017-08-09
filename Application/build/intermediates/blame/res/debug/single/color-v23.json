@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/home/kanxuan/Desktop/WatchFace/Application/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/home/kanxuan/.android/build-cache/e938125223647d18e3c0dcacd60387a50745f60f/output/res/color-v23/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/home/kanxuan/Desktop/WatchFace/Application/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/home/kanxuan/.android/build-cache/e938125223647d18e3c0dcacd60387a50745f60f/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/home/kanxuan/Desktop/WatchFace/Application/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/home/kanxuan/.android/build-cache/e938125223647d18e3c0dcacd60387a50745f60f/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/home/kanxuan/Desktop/WatchFace/Application/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/home/kanxuan/.android/build-cache/e938125223647d18e3c0dcacd60387a50745f60f/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/home/kanxuan/Desktop/WatchFace/Application/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/home/kanxuan/.android/build-cache/e938125223647d18e3c0dcacd60387a50745f60f/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/home/kanxuan/Desktop/WatchFace/Application/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/home/kanxuan/.android/build-cache/e938125223647d18e3c0dcacd60387a50745f60f/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/home/kanxuan/Desktop/WatchFace/Application/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/home/kanxuan/.android/build-cache/e938125223647d18e3c0dcacd60387a50745f60f/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/home/kanxuan/Desktop/WatchFace/Application/build/intermediates/res/merged/debug/color-v23/button_icon_color.xml",
+        "source": "/home/kanxuan/.android/build-cache/91ca553e796d09405d8fe7f8ecdeeb4a7f2e182f/output/res/color-v23/button_icon_color.xml"
+    },
+    {
+        "merged": "/home/kanxuan/Desktop/WatchFace/Application/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/home/kanxuan/.android/build-cache/e938125223647d18e3c0dcacd60387a50745f60f/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/home/kanxuan/Desktop/WatchFace/Application/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/home/kanxuan/.android/build-cache/e938125223647d18e3c0dcacd60387a50745f60f/output/res/color-v23/abc_color_highlight_material.xml"
+    }
+]

@@ -1,0 +1,345 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml:17:1-364:12
+	package
+		ADDED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml:17:11-59
+	android:versionName
+		INJECTED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml
+		INJECTED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml:18:11-69
+	android:versionCode
+		INJECTED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml
+		INJECTED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml
+uses-sdk
+ADDED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml:20:5-22:40
+MERGED from [com.android.support:palette-v7:25.1.0] /home/kanxuan/.android/build-cache/0e8c18269901df8a2674b307413ba8cf4e9f06b8/output/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-fitness:10.0.1] /home/kanxuan/.android/build-cache/fc80482d0af13eb62688a7292c35fa74701c6f18/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-location:10.0.1] /home/kanxuan/.android/build-cache/d6ed240f7019a5858cea05d2de7b1c731b537882/output/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-wearable:10.0.1] /home/kanxuan/.android/build-cache/f22cc2bc0f5798347f7af08a579d555d1f6e4f0e/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-base:10.0.1] /home/kanxuan/.android/build-cache/84d3cb8812a7a055c5887232c2038c5d7d70936c/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] /home/kanxuan/.android/build-cache/bb562dd1d5bdfd10e4ba15bf56884ff21b4a47f8/output/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] /home/kanxuan/.android/build-cache/21cb460e3cfffc5aa98efd22e6ccbd0147cd8bbc/output/AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:support-v13:25.0.1] /home/kanxuan/.android/build-cache/4509bd27e5cc335f81ab23d523f030ab005f67e9/output/AndroidManifest.xml:21:5-23:55
+MERGED from [com.google.android.support:wearable:2.0.0] /home/kanxuan/.android/build-cache/91ca553e796d09405d8fe7f8ecdeeb4a7f2e182f/output/AndroidManifest.xml:4:5-72
+MERGED from [com.android.support:percent:23.0.1] /home/kanxuan/.android/build-cache/10cba97f45da9f6af4f81663d94d3ca34abfadf7/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.0.1] /home/kanxuan/.android/build-cache/d0448a8af4c21e207b806c0372efb3bf720e03e0/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:25.0.1] /home/kanxuan/.android/build-cache/cb52c2e2ba7cf789bcddae44999767f393782f4e/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.0.1] /home/kanxuan/.android/build-cache/027d9c72639f40fa43fedbb5408cd0cfaf47b73a/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.0.1] /home/kanxuan/.android/build-cache/1eb4333cc71218cbc547761f0fb009f8ec1899cd/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.0.1] /home/kanxuan/.android/build-cache/daa2cbad89a296d4a3caebccdd9085692d3f9bb9/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.1.0] /home/kanxuan/.android/build-cache/47209e9612288e5073429c0ade435e93e6285f94/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.1.0] /home/kanxuan/.android/build-cache/6d5075128e2c32e64d9ddd73a91e7a220277e411/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v13:25.0.1] /home/kanxuan/.android/build-cache/4509bd27e5cc335f81ab23d523f030ab005f67e9/output/AndroidManifest.xml:23:9-52
+	android:targetSdkVersion
+		ADDED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml:22:9-38
+		INJECTED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml
+		INJECTED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml:21:9-35
+		INJECTED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml
+		INJECTED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml
+uses-feature#android.hardware.type.watch
+ADDED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml:24:5-63
+	android:name
+		ADDED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml:24:19-61
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml:27:5-67
+	android:name
+		ADDED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml:27:22-65
+uses-permission#com.google.android.wearable.permission.RECEIVE_COMPLICATION_DATA
+ADDED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml:30:5-103
+	android:name
+		ADDED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml:30:22-101
+uses-permission#android.permission.READ_CALENDAR
+ADDED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml:33:5-71
+	android:name
+		ADDED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml:33:22-69
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml:36:5-78
+	android:name
+		ADDED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml:36:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml:38:5-80
+	android:name
+		ADDED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml:38:22-78
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml:39:5-74
+	android:name
+		ADDED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml:39:22-72
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml:40:5-79
+	android:name
+		ADDED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml:40:22-77
+uses-permission#android.permission.INTERNET
+ADDED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml:41:5-66
+	android:name
+		ADDED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml:41:22-64
+application
+ADDED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml:43:5-362:19
+MERGED from [com.android.support:palette-v7:25.1.0] /home/kanxuan/.android/build-cache/0e8c18269901df8a2674b307413ba8cf4e9f06b8/output/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-fitness:10.0.1] /home/kanxuan/.android/build-cache/fc80482d0af13eb62688a7292c35fa74701c6f18/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-location:10.0.1] /home/kanxuan/.android/build-cache/d6ed240f7019a5858cea05d2de7b1c731b537882/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-wearable:10.0.1] /home/kanxuan/.android/build-cache/f22cc2bc0f5798347f7af08a579d555d1f6e4f0e/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-base:10.0.1] /home/kanxuan/.android/build-cache/84d3cb8812a7a055c5887232c2038c5d7d70936c/output/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] /home/kanxuan/.android/build-cache/bb562dd1d5bdfd10e4ba15bf56884ff21b4a47f8/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] /home/kanxuan/.android/build-cache/21cb460e3cfffc5aa98efd22e6ccbd0147cd8bbc/output/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v13:25.0.1] /home/kanxuan/.android/build-cache/4509bd27e5cc335f81ab23d523f030ab005f67e9/output/AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.support:wearable:2.0.0] /home/kanxuan/.android/build-cache/91ca553e796d09405d8fe7f8ecdeeb4a7f2e182f/output/AndroidManifest.xml:6:5-19
+MERGED from [com.android.support:percent:23.0.1] /home/kanxuan/.android/build-cache/10cba97f45da9f6af4f81663d94d3ca34abfadf7/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:25.0.1] /home/kanxuan/.android/build-cache/cb52c2e2ba7cf789bcddae44999767f393782f4e/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.0.1] /home/kanxuan/.android/build-cache/027d9c72639f40fa43fedbb5408cd0cfaf47b73a/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.0.1] /home/kanxuan/.android/build-cache/1eb4333cc71218cbc547761f0fb009f8ec1899cd/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.0.1] /home/kanxuan/.android/build-cache/daa2cbad89a296d4a3caebccdd9085692d3f9bb9/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.0] /home/kanxuan/.android/build-cache/47209e9612288e5073429c0ade435e93e6285f94/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] /home/kanxuan/.android/build-cache/6d5075128e2c32e64d9ddd73a91e7a220277e411/output/AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml:46:9-41
+	android:allowBackup
+		ADDED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml:44:9-35
+	android:icon
+		ADDED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml:45:9-45
+meta-data#com.google.android.wearable.standalone
+ADDED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml:48:9-50:36
+	android:value
+		ADDED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml:50:13-33
+	android:name
+		ADDED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml:49:13-66
+meta-data#com.google.android.gms.version
+ADDED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml:52:9-54:68
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] /home/kanxuan/.android/build-cache/21cb460e3cfffc5aa98efd22e6ccbd0147cd8bbc/output/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml:54:13-66
+	android:name
+		ADDED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml:53:13-58
+uses-library#com.google.android.wearable
+ADDED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml:56:9-58:39
+	android:required
+		ADDED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml:58:13-37
+	android:name
+		ADDED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml:57:13-55
+service#com.example.android.wearable.watchface.AnalogWatchFaceService
+ADDED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml:60:9-82:19
+	android:label
+		ADDED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml:62:13-48
+	android:permission
+		ADDED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml:63:13-67
+	android:name
+		ADDED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml:61:13-51
+meta-data#android.service.wallpaper
+ADDED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml:64:13-66:53
+	android:resource
+		ADDED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml:66:17-51
+	android:name
+		ADDED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml:65:17-57
+meta-data#com.google.android.wearable.watchface.preview
+ADDED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml:67:13-69:62
+	android:resource
+		ADDED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml:69:17-60
+	android:name
+		ADDED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml:68:17-77
+meta-data#com.google.android.wearable.watchface.preview_circular
+ADDED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml:70:13-72:71
+	android:resource
+		ADDED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml:72:17-69
+	android:name
+		ADDED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml:71:17-86
+meta-data#com.google.android.wearable.watchface.companionConfigurationAction
+ADDED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml:73:13-75:87
+	android:value
+		ADDED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml:75:17-85
+	android:name
+		ADDED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml:74:17-98
+intent-filter#android.service.wallpaper.WallpaperService+com.google.android.wearable.watchface.category.WATCH_FACE
+ADDED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml:77:13-81:29
+action#android.service.wallpaper.WallpaperService
+ADDED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml:78:17-84
+	android:name
+		ADDED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml:78:25-82
+category#com.google.android.wearable.watchface.category.WATCH_FACE
+ADDED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml:80:17-101
+	android:name
+		ADDED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml:80:27-99
+service#com.example.android.wearable.watchface.SweepWatchFaceService
+ADDED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml:83:9-102:19
+	android:label
+		ADDED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml:85:13-47
+	android:permission
+		ADDED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml:86:13-67
+	android:name
+		ADDED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml:84:13-50
+service#com.example.android.wearable.watchface.OpenGLWatchFaceService
+ADDED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml:103:9-125:19
+	android:label
+		ADDED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml:105:13-48
+	android:permission
+		ADDED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml:106:13-67
+	android:name
+		ADDED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml:104:13-51
+service#com.example.android.wearable.watchface.CardBoundsWatchFaceService
+ADDED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml:126:9-148:19
+	android:label
+		ADDED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml:128:13-53
+	android:permission
+		ADDED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml:129:13-67
+	android:name
+		ADDED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml:127:13-55
+service#com.example.android.wearable.watchface.ComplicationSimpleWatchFaceService
+ADDED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml:149:9-172:19
+	android:enabled
+		ADDED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml:151:13-35
+	android:label
+		ADDED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml:152:13-56
+	android:permission
+		ADDED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml:153:13-67
+	android:name
+		ADDED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml:150:13-63
+meta-data#com.google.android.wearable.watchface.wearableConfigurationAction
+ADDED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml:163:13-165:100
+	android:value
+		ADDED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml:165:17-98
+	android:name
+		ADDED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml:164:17-97
+activity#android.support.wearable.complications.ComplicationHelperActivity
+ADDED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml:174:9-101
+	android:name
+		ADDED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml:174:19-99
+activity#com.example.android.wearable.watchface.ComplicationSimpleConfigActivity
+ADDED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml:175:9-184:20
+	android:label
+		ADDED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml:177:13-56
+	android:name
+		ADDED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml:176:13-61
+intent-filter#android.intent.category.DEFAULT+com.example.android.wearable.watchface.CONFIG_COMPLICATION_SIMPLE+com.google.android.wearable.watchface.category.WEARABLE_CONFIGURATION
+ADDED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml:178:13-183:29
+action#com.example.android.wearable.watchface.CONFIG_COMPLICATION_SIMPLE
+ADDED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml:179:17-107
+	android:name
+		ADDED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml:179:25-105
+category#com.google.android.wearable.watchface.category.WEARABLE_CONFIGURATION
+ADDED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml:181:17-113
+	android:name
+		ADDED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml:181:27-111
+category#android.intent.category.DEFAULT
+ADDED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml:182:17-75
+	android:name
+		ADDED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml:182:27-73
+service#com.example.android.wearable.watchface.InteractiveWatchFaceService
+ADDED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml:186:9-205:19
+	android:label
+		ADDED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml:188:13-53
+	android:permission
+		ADDED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml:189:13-67
+	android:name
+		ADDED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml:187:13-56
+service#com.example.android.wearable.watchface.DigitalWatchFaceService
+ADDED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml:206:9-231:19
+	android:label
+		ADDED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml:208:13-49
+	android:permission
+		ADDED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml:209:13-67
+	android:name
+		ADDED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml:207:13-52
+activity#com.example.android.wearable.watchface.DigitalWatchFaceWearableConfigActivity
+ADDED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml:239:9-248:20
+	android:label
+		ADDED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml:241:13-56
+	android:name
+		ADDED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml:240:13-67
+intent-filter#android.intent.category.DEFAULT+com.example.android.wearable.watchface.CONFIG_DIGITAL+com.google.android.wearable.watchface.category.WEARABLE_CONFIGURATION
+ADDED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml:242:13-247:29
+action#com.example.android.wearable.watchface.CONFIG_DIGITAL
+ADDED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml:243:17-95
+	android:name
+		ADDED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml:243:25-93
+service#com.example.android.wearable.watchface.CalendarWatchFaceService
+ADDED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml:250:9-269:19
+	android:label
+		ADDED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml:252:13-50
+	android:permission
+		ADDED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml:253:13-67
+	android:name
+		ADDED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml:251:13-53
+service#com.example.android.wearable.watchface.DigitalWatchFaceConfigListenerService
+ADDED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml:270:9-279:19
+	android:name
+		ADDED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml:270:18-71
+intent-filter#com.google.android.gms.wearable.MESSAGE_RECEIVED
+ADDED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml:271:13-278:29
+action#com.google.android.gms.wearable.MESSAGE_RECEIVED
+ADDED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml:272:17-90
+	android:name
+		ADDED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml:272:25-88
+data
+ADDED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml:274:17-277:44
+	android:host
+		ADDED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml:275:21-37
+	android:scheme
+		ADDED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml:277:21-42
+	android:pathPrefix
+		ADDED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml:276:21-43
+service#com.example.android.wearable.watchface.FitDistanceWatchFaceService
+ADDED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml:280:9-302:19
+	android:label
+		ADDED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml:282:13-54
+	android:permission
+		ADDED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml:283:13-67
+	android:name
+		ADDED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml:281:13-56
+service#com.example.android.wearable.watchface.FitStepsWatchFaceService
+ADDED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml:303:9-322:19
+	android:label
+		ADDED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml:305:13-51
+	android:permission
+		ADDED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml:306:13-67
+	android:name
+		ADDED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml:304:13-53
+activity#com.example.android.wearable.watchface.CalendarWatchFacePermissionActivity
+ADDED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml:324:9-327:20
+	android:label
+		ADDED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml:326:13-82
+	android:name
+		ADDED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml:325:13-64
+service#com.example.android.wearable.watchface.provider.RandomNumberProviderService
+ADDED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml:329:9-357:19
+	android:label
+		ADDED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml:332:13-73
+	android:permission
+		ADDED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml:333:13-99
+	android:icon
+		ADDED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml:331:13-49
+	android:name
+		ADDED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml:330:13-65
+intent-filter#android.support.wearable.complications.ACTION_COMPLICATION_UPDATE_REQUEST
+ADDED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml:334:13-336:29
+action#android.support.wearable.complications.ACTION_COMPLICATION_UPDATE_REQUEST
+ADDED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml:335:17-115
+	android:name
+		ADDED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml:335:25-113
+meta-data#android.support.wearable.complications.SUPPORTED_TYPES
+ADDED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml:338:13-340:68
+	android:value
+		ADDED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml:340:17-66
+	android:name
+		ADDED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml:339:17-86
+meta-data#android.support.wearable.complications.UPDATE_PERIOD_SECONDS
+ADDED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml:354:13-356:38
+	android:value
+		ADDED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml:356:17-36
+	android:name
+		ADDED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml:355:17-92
+service#com.example.android.wearable.watchface.provider.UpdateComplicationDataService
+ADDED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml:358:9-361:19
+	android:exported
+		ADDED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml:360:13-37
+	android:name
+		ADDED from /home/kanxuan/Desktop/WatchFace/Wearable/src/main/AndroidManifest.xml:359:13-67
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.0.1] /home/kanxuan/.android/build-cache/84d3cb8812a7a055c5887232c2038c5d7d70936c/output/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] /home/kanxuan/.android/build-cache/84d3cb8812a7a055c5887232c2038c5d7d70936c/output/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] /home/kanxuan/.android/build-cache/84d3cb8812a7a055c5887232c2038c5d7d70936c/output/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] /home/kanxuan/.android/build-cache/84d3cb8812a7a055c5887232c2038c5d7d70936c/output/AndroidManifest.xml:19:19-85
